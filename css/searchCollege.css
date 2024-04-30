@@ -1,0 +1,19 @@
+*{
+    font-size: 1.2rem;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    border: 1px solid black;
+    margin-top: 10px;
+
+}
+tr>*{
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+
+}

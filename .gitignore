@@ -1,0 +1,5 @@
+.vscode
+.github
+**/PHPMailer/
+try.php
+try1.php
